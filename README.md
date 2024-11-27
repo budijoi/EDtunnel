@@ -198,8 +198,8 @@ Configure environment variables in Pages settings page
 
 - Telegram Group: [EDtunnel Group](https://t.me/edtunnel)
 - Repository: [EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)
-- Issue Report: [创建新问题 | Create New Issue](https://github.com/6Kmfi6HP/EDtunnel/issues)
-- Feature Request: [提交建议 | Submit Request](https://github.com/6Kmfi6HP/EDtunnel/discussions)
+- Issue Report: [Create New Issue](https://github.com/6Kmfi6HP/EDtunnel/issues)
+- Feature Request: [Submit Request](https://github.com/6Kmfi6HP/EDtunnel/discussions)
 
 ## 📝 Contributing
 
