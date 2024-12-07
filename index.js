@@ -16,7 +16,7 @@ let userID = 'b962ed91-c82a-4832-bc4b-61da47cbab8d';
  * Array of proxy server addresses with ports
  * Format: ['hostname:port', 'hostname:port']
  */
-const proxyIPs = ['103.168.146.169:443', '206.237.98.76:443'];
+const proxyIPs = ['quiz.int.vidio.com:443', 'img.email1.vidio.com:443'];
 
 // Randomly select a proxy server from the pool
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
