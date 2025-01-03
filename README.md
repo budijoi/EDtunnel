@@ -29,11 +29,11 @@ EDtunnel is a proxy tool based on Cloudflare Workers and Pages that supports mul
 
 ### Deploy on Worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/6Kmfi6HP/EDtunnel/blob/main/_worker.js)
+1. Copy `_worker.js` code from [here](https://github.com/budijoi/EDtunnel/blob/main/_worker.js)
 
 2. Or click the button below to deploy directly:
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/6Kmfi6HP/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/budijoi/EDtunnel)
 
 ## ⚙️ Configuration Guide
 
